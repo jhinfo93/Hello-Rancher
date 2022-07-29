@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: peteindockerhub/hello-rancher:1.0.2
+  repository: peteindockerhub/hello-rancher
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
